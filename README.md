@@ -1,20 +1,20 @@
 # hackathone 2025 day2
 # 1. Project Overview
 Project Name:
-HKM Mart.
+HKM Mart.
 Objective:
-To facilitate  our customers  by creating an online store to sell products with an easy checkout process, tracking shipments, and handling payments securely.
+To facilitate  our customers  by creating an online store to sell products with an easy checkout process, tracking shipments, and handling payments securely.
 Target Audience:
-My eCommerce platform is for youngsters including casual ware, party ware and professional outfits to enhance customers’ charming personality. We also deal in kitchen and dinning to boost customers standard and  priorities.
+My eCommerce platform is for youngsters including casual ware, party ware and professional outfits to enhance customers’ charming personality. We also deal in kitchen and dinning to boost customers standard and  priorities.
 
 
 # 2. Technologies Used
 Frontend:
-Next.js: React-based framework for building the frontend. It helps with Server-Side Rendering (SSR), Static Site Generation (SSG), and API routes.
+Next.js: React-based framework for building the frontend. It helps with Server-Side Rendering (SSR), Static Site Generation (SSG), and API routes.
 oFeatures:
-Component-based UI
-Fast rendering
-Dynamic routes for product pages and categories
+Component-based UI
+Fast rendering
+Dynamic routes for product pages and categories
 Backend:
 Sanity CMS: Headless Content Management System to handle content, product data, user data, and categories.
 oFeatures:
